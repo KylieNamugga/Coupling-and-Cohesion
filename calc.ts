@@ -1,5 +1,5 @@
 // In this file we are increasing cohesion and reducing coupling.
-// We do this by increasing the level of independence of each module in class clac.
+// We do this by increasing the level of independence of each module in class calc.
 // High cohesion comes in because each element in the module is directly related to the functionality.
 
 
